@@ -2,4 +2,5 @@ Alumnos: Luca De Blasi, Luciano Montenegro, Danilo Diaz Melion y Santiago Sojka
 
 Curso: 6t 2da Av Com C
 
-trabajo Practico N 2
+Trabajo Practico N 2
+Wokwi: https://wokwi.com/projects/366974732424212481
